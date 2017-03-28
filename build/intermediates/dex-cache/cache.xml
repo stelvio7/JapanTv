@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\oldData\201703android\JapanTv\app\libs\RootTools-3.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0366ac8a28a574b3964f360c027ad287d173cfa7">
+        <dex dex="E:\oldData\201703android\JapanTv\app\build\intermediates\transforms\dex\debug\folders\1000\2\RootTools-3.4_d68357c9c35c98d1ee12cd18cdd0cb196317f82d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\oldData\201703android\JapanTv\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc77f4e5b0af35916ef4a12abc7128ee50398628">
+        <dex dex="E:\oldData\201703android\JapanTv\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_9db74b4a4f0230b7363552cc737058016428eaf6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\oldData\201703android\JapanTv\app\libs\universal-image-loader-1.9.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e025bc5b84968e7d6ac765e660a70b3e5a87432">
+        <dex dex="E:\oldData\201703android\JapanTv\app\build\intermediates\transforms\dex\debug\folders\1000\2\universal-image-loader-1.9.2_2d019cf309c081f098995d7f8656b442f0ec249c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\oldData\201703android\JapanTv\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="E:\oldData\201703android\JapanTv\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_689c823ac45abbe6a65ef77aefebe6ce731d95f0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\oldData\201703android\JapanTv\app\libs\RootTools-3.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0366ac8a28a574b3964f360c027ad287d173cfa7">
+        <dex dex="E:\oldData\201703android\JapanTv\app\build\intermediates\pre-dexed\release\RootTools-3.4_d68357c9c35c98d1ee12cd18cdd0cb196317f82d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\oldData\201703android\JapanTv\app\libs\universal-image-loader-1.9.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9e025bc5b84968e7d6ac765e660a70b3e5a87432">
+        <dex dex="E:\oldData\201703android\JapanTv\app\build\intermediates\pre-dexed\release\universal-image-loader-1.9.2_2d019cf309c081f098995d7f8656b442f0ec249c.jar" />
+    </item>
+
+</items>

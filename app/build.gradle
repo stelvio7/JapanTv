@@ -1,0 +1,41 @@
+apply plugin: 'com.android.application'
+
+android {
+
+    signingConfigs {
+        debug {
+            keyAlias 'Release'
+            keyPassword '1234qwer'
+            storeFile file('E:/androidunpack/Project_170320/TheGolfShow/tgs.jks')
+            storePassword '1234qwer'
+        }
+        release {
+            keyAlias 'release'
+            keyPassword '1234qwer'
+            storeFile file('E:/androidunpack/Project_170320/TheGolfShow/tgs.jks')
+            storePassword '1234qwer'
+        }
+    }
+    compileSdkVersion 20
+    buildToolsVersion "25.0.0"
+
+    defaultConfig {
+        applicationId "com.japantv.settop1"
+        minSdkVersion 8
+        targetSdkVersion 8
+        versionCode 1
+        versionName "1.0"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    compile files('libs/RootTools-3.4.jar')
+    compile files('libs/universal-image-loader-1.9.2.jar')
+}

@@ -1,0 +1,520 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal" android:background="@drawable/main_bg">
+	
+	<ImageView
+	    android:id="@+id/tel"
+	    android:layout_width="wrap_content"
+	     android:layout_height="wrap_content"
+	     android:layout_marginLeft="10dp"
+	     android:focusable="false"
+	     android:layout_alignParentLeft="true"
+	     android:layout_alignParentBottom="true">
+	</ImageView>
+	<LinearLayout 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingRight="8dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal" 
+        >
+		<Button android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:id="@+id/imgExpireDate"
+		    android:textColor="#ffffff"
+		    android:textSize="20sp"
+		    android:focusable="false"
+		    android:textScaleX="0.9"
+		    android:text="00"
+		    android:background="@drawable/background_day"
+		    android:layout_marginBottom="15dp"
+		    />
+		<Button android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:id="@+id/imgExpireDate2"
+		    android:textColor="#ffffff"
+		    android:textSize="20sp"
+		    android:focusable="false"
+		    android:layout_marginLeft="5dp"
+		    android:textScaleX="0.9"
+		    android:text="00"
+		    android:background="@drawable/background_day"
+		    android:layout_marginRight="6dp"
+		    />
+    </LinearLayout>
+	<LinearLayout 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:paddingRight="23dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal" 
+        
+        >
+        <ImageView
+            android:id="@+id/imgLock"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="0dp"
+            android:layout_marginBottom="70dp"
+            android:background="@drawable/image_main_lock_on"/>
+        <ImageView
+            android:id="@+id/imgNet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="70dp"
+            android:background="@drawable/image_main_net_on"/>
+     </LinearLayout>
+	<RelativeLayout
+        android:id="@+id/mainLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:orientation="vertical">
+        <ImageView android:layout_width="wrap_content"
+		     android:layout_height="wrap_content"
+		     android:focusable="false"
+		     android:src="@drawable/view_drama_back">
+		</ImageView>
+
+		<RelativeLayout android:layout_width="wrap_content"
+	        android:layout_height="wrap_content">
+	       <LinearLayout 
+		    android:layout_width="745dp"
+		    android:layout_height="487dp"
+		    android:layout_gravity="center"
+		    android:orientation="horizontal" >
+			<ImageView
+			    android:id="@+id/imgPop"
+		   	    android:layout_width="299dp"
+		   		android:layout_height="427dp"
+		   		android:layout_marginLeft="1dp"
+		   		android:layout_marginTop="40dp"
+		   		android:scaleType="fitXY"/>
+			<RelativeLayout
+			    android:id="@+id/rl"
+			    android:layout_width="wrap_content"
+		   		android:layout_height="wrap_content"
+		   		android:orientation="vertical">
+				<TextView 
+				    android:id="@+id/menuTitle"
+			   	    android:layout_width="250dp"
+			   		android:layout_height="30dp"
+			   		android:layout_marginLeft="80dp"
+			   		android:layout_marginTop="77dp"
+			   		android:textSize="16sp"
+			   		android:textColor="#51c864"
+			   		/>
+				<LinearLayout
+				    android:layout_width="wrap_content"
+			   		android:layout_height="wrap_content"
+			   		android:orientation="horizontal">
+					<TextView 
+					    android:id="@+id/txtDate"
+				   	    android:layout_width="250dp"
+				   	    
+				   		android:layout_height="wrap_content"
+				   		android:layout_marginLeft="90dp"
+				   		android:layout_marginTop="143dp"
+				   		android:textSize="12sp"
+				   		android:textColor="#9F9F9F"
+				   		/>
+					
+				</LinearLayout>
+				<LinearLayout
+				    android:layout_width="wrap_content"
+			   		android:layout_height="wrap_content"
+			   		android:orientation="horizontal">
+					<TextView 
+					    android:id="@+id/txtAge"
+				   	    android:layout_width="250dp"
+				   		android:layout_height="wrap_content"
+				   		android:layout_marginLeft="90dp"
+				   		android:layout_marginTop="164dp"
+				   		android:textSize="12sp"
+				   		android:textColor="#9F9F9F"
+				   		/>
+					
+				</LinearLayout>
+				<TextView 
+				    android:id="@+id/txtDirector"
+			   	    android:layout_width="250dp"
+			   		android:layout_height="wrap_content"
+			   		android:layout_marginLeft="90dp"
+			   		android:layout_marginTop="185dp"
+			   		android:textSize="12sp"
+			   		android:textColor="#9F9F9F"
+			   		/>
+				<TextView 
+				    android:id="@+id/txtCast"
+			   	    android:layout_width="250dp"
+			   		android:layout_height="wrap_content"
+			   		android:layout_marginLeft="90dp"
+			   		android:layout_marginTop="206dp"
+			   		android:textSize="12sp"
+			   		android:textColor="#9F9F9F"
+			   		/>
+				<TextView 
+				    android:id="@+id/txtStory"
+			   	    android:layout_width="250dp"
+			   		android:layout_height="wrap_content"
+			   		android:layout_marginLeft="90dp"
+			   		android:layout_marginTop="227dp"
+			   		android:textSize="12sp"
+			   		android:textColor="#9F9F9F"
+			   		/>
+			</RelativeLayout>
+		</LinearLayout>
+			<LinearLayout android:id="@+id/middleLayout"
+		        android:layout_width="600dp"
+		        android:layout_height="wrap_content"
+		        android:gravity="left"
+		        android:layout_marginTop="0dp"
+		        android:layout_marginLeft="170dp"
+		        android:orientation="horizontal">
+		        <LinearLayout 
+			        android:layout_width="wrap_content"
+			        android:layout_height="wrap_content"
+			        android:gravity="right"
+			        android:orientation="horizontal">
+					<Button android:id="@+id/seasonbtn8" 
+					    android:layout_width="38dp"
+				     	android:layout_height="38dp"
+				     	android:layout_marginTop="1dp"
+				     	android:layout_marginLeft="4dp"
+				     	android:paddingTop="1dp"
+				     	android:textColor="#FFFFFF"
+				  		android:text="9"
+				  		android:textSize="14sp"
+				  		android:focusable="true"
+				     	android:background="@drawable/season"
+				     	android:visibility="gone">
+					</Button>
+					<Button android:id="@+id/seasonbtn7" 
+					    android:layout_width="38dp"
+				     	android:layout_height="38dp"
+				     	android:layout_marginTop="1dp"
+				     	android:layout_marginLeft="4dp"
+				     	android:paddingTop="1dp"
+				     	android:paddingLeft="2dp"
+				     	android:textColor="#FFFFFF"
+				  		android:text="8"
+				  		android:textSize="14sp"
+				  		android:focusable="true"
+				     	android:background="@drawable/season"
+				     	android:visibility="gone">
+					</Button>
+					<Button android:id="@+id/seasonbtn6" 
+					    android:layout_width="38dp"
+				     	android:layout_height="38dp"
+				     	android:layout_marginTop="1dp"
+				     	android:layout_marginLeft="4dp"
+				     	android:paddingTop="1dp"
+				     	android:paddingLeft="2dp"
+				     	android:textColor="#FFFFFF"
+				  		android:text="7"
+				  		android:textSize="14sp"
+				  		android:focusable="true"
+				     	android:background="@drawable/season"
+				     	android:visibility="gone">
+					</Button>
+					<Button android:id="@+id/seasonbtn5" 
+					    android:layout_width="38dp"
+				     	android:layout_height="38dp"
+				     	android:layout_marginTop="1dp"
+				     	android:layout_marginLeft="4dp"
+				     	android:paddingTop="1dp"
+				     	android:paddingLeft="2dp"
+				     	android:textColor="#FFFFFF"
+				  		android:text="6"
+				  		android:textSize="14sp"
+				  		android:focusable="true"
+				     	android:background="@drawable/season"
+				     	android:visibility="gone">
+					</Button>
+					<Button android:id="@+id/seasonbtn4" 
+					    android:layout_width="38dp"
+				     	android:layout_height="38dp"
+				     	android:layout_marginTop="1dp"
+				     	android:layout_marginLeft="4dp"
+				     	android:paddingTop="1dp"
+				     	android:paddingLeft="2dp"
+				     	android:textColor="#FFFFFF"
+				  		android:text="5"
+				  		android:textSize="14sp"
+				  		android:focusable="true"
+				     	android:background="@drawable/season"
+				     	android:visibility="gone">
+					</Button>
+					<Button android:id="@+id/seasonbtn3" 
+					    android:layout_width="38dp"
+				     	android:layout_height="38dp"
+				     	android:layout_marginTop="1dp"
+				     	android:layout_marginLeft="4dp"
+				     	android:paddingTop="1dp"
+				     	android:paddingLeft="2dp"
+				     	android:textColor="#FFFFFF"
+				  		android:text="4"
+				  		android:textSize="14sp"
+				  		android:focusable="true"
+				     	android:background="@drawable/season"
+				     	android:visibility="gone">
+					</Button>
+					<Button android:id="@+id/seasonbtn2" 
+					    android:layout_width="38dp"
+				     	android:layout_height="38dp"
+				     	android:layout_marginTop="1dp"
+				     	android:layout_marginLeft="4dp"
+				     	android:paddingTop="1dp"
+				     	android:paddingLeft="2dp"
+				     	android:textColor="#FFFFFF"
+				  		android:text="3"
+				  		android:textSize="14sp"
+				  		android:focusable="true"
+				     	android:background="@drawable/season"
+				     	android:visibility="gone">
+					</Button>
+					<Button android:id="@+id/seasonbtn1" 
+					    android:layout_width="38dp"
+				     	android:layout_height="38dp"
+				     	android:layout_marginTop="1dp"
+				     	android:layout_marginLeft="4dp"
+				     	android:paddingTop="1dp"
+				     	android:paddingLeft="2dp"
+				     	android:textColor="#FFFFFF"
+				  		android:text="2"
+				  		android:textSize="14sp"
+				  		android:focusable="true"
+				     	android:background="@drawable/season"
+				     	android:visibility="gone">
+					</Button>
+					<Button android:id="@+id/seasonbtn0" 
+					    android:layout_width="38dp"
+				     	android:layout_height="38dp"
+				     	android:layout_marginTop="1dp"
+				     	android:layout_marginLeft="4dp"
+				     	android:paddingTop="1dp"
+				     	android:paddingLeft="2dp"
+				     	android:textColor="#FFFFFF"
+				  		android:text="1"
+				  		android:textSize="14sp"
+				  		android:focusable="true"
+				     	android:background="@drawable/season"
+				     	android:visibility="gone">
+					</Button>
+				</LinearLayout>
+			</LinearLayout>
+		</RelativeLayout>
+		<LinearLayout
+	        
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:orientation="horizontal"
+	        android:layout_alignParentLeft="true"
+	        android:layout_centerVertical="true"
+	        >
+			<TableLayout android:id="@+id/buttonLayout"
+			    android:layout_marginTop="54dp"
+			    android:layout_marginLeft="650dp"
+	        	android:layout_width="wrap_content"
+	        	android:layout_height="wrap_content">
+			    <TableRow>
+			        <Button android:id="@+id/detaildramabtn0"
+			            android:layout_width="60dp"
+					     android:layout_height="61dp"
+					     android:background="@drawable/drama_detail_button" 
+					     android:layout_marginLeft="1dp"
+					     android:layout_marginRight="1dp"
+					     android:layout_marginBottom="1dp"
+					     android:textSize="18sp"
+					     android:textColor="#ffffff"
+					     
+					     />
+			        <Button android:id="@+id/detaildramabtn1"
+			            android:layout_width="60dp"
+					     android:layout_height="61dp"
+					     android:layout_marginRight="1dp"
+					     android:textSize="18sp"
+					     android:textColor="#ffffff"
+					     android:background="@drawable/drama_detail_button" 
+					     />
+			        <Button android:id="@+id/detaildramabtn2"
+			            android:layout_width="60dp"
+					     android:layout_height="61dp"
+					     android:textSize="18sp"
+					     android:textColor="#ffffff"
+					     android:background="@drawable/drama_detail_button" 
+					     android:layout_marginRight="1dp"/>
+			        <Button android:id="@+id/detaildramabtn3"
+			            android:layout_width="60dp"
+					     android:layout_height="61dp"
+					     android:textSize="18sp"
+					     android:textColor="#ffffff"
+					     android:background="@drawable/drama_detail_button" 
+					     android:layout_marginRight="1dp"/>
+			        <Button android:id="@+id/detaildramabtn4"
+			            android:layout_width="60dp"
+					     android:layout_height="61dp"
+					     android:textSize="18sp"
+					     android:textColor="#ffffff"
+					     android:background="@drawable/drama_detail_button" />
+			    </TableRow>
+			    <TableRow>
+				    <Button android:id="@+id/detaildramabtn5"
+				        android:layout_width="60dp"
+					     android:layout_height="61dp"
+					     android:layout_marginRight="1dp"
+					     android:layout_marginBottom="1dp"
+					     android:textSize="18sp"
+					     android:textColor="#ffffff"
+					     android:background="@drawable/drama_detail_button" 
+					     />
+				    <Button android:id="@+id/detaildramabtn6"
+				        android:layout_width="60dp"
+					     android:layout_height="61dp"
+					      android:layout_marginRight="1dp"
+					     android:textSize="18sp"
+					     android:textColor="#ffffff"
+					     android:background="@drawable/drama_detail_button" />
+				    <Button android:id="@+id/detaildramabtn7"
+				        android:layout_width="60dp"
+					     android:layout_height="61dp"
+					      android:layout_marginRight="1dp"
+					     android:textSize="18sp"
+					     android:textColor="#ffffff"
+					     android:background="@drawable/drama_detail_button" />
+				    <Button android:id="@+id/detaildramabtn8"
+				        android:layout_width="60dp"
+					     android:layout_height="61dp"
+					      android:layout_marginRight="1dp"
+					     android:textSize="18sp"
+					     android:textColor="#ffffff"
+					     android:background="@drawable/drama_detail_button" />
+				    <Button android:id="@+id/detaildramabtn9"
+				        android:layout_width="60dp"
+					     android:layout_height="61dp"
+					     android:textSize="18sp"
+					     android:textColor="#ffffff"
+					     android:background="@drawable/drama_detail_button" />
+				</TableRow>
+			    <TableRow >
+			        <Button android:id="@+id/detaildramabtn10"
+			            android:layout_width="60dp"
+					     android:layout_height="60dp"
+					     android:layout_marginRight="1dp"
+					     android:layout_marginBottom="1dp"
+					     android:textSize="18sp"
+					     android:textColor="#ffffff"
+					     android:background="@drawable/drama_detail_button" />
+			        <Button android:id="@+id/detaildramabtn11"
+			            android:layout_width="60dp"
+					     android:layout_height="60dp"
+					     android:textSize="18sp"
+					      android:layout_marginRight="1dp"
+					     android:textColor="#ffffff"
+					     android:background="@drawable/drama_detail_button" />
+			        <Button android:id="@+id/detaildramabtn12"
+			            android:layout_width="60dp"
+					     android:layout_height="60dp"
+					     android:textSize="18sp"
+					      android:layout_marginRight="1dp"
+					     android:textColor="#ffffff"
+					     android:background="@drawable/drama_detail_button" />
+			        <Button android:id="@+id/detaildramabtn13"
+			            android:layout_width="60dp"
+					     android:layout_height="60dp"
+					     android:textSize="18sp"
+					      android:layout_marginRight="1dp"
+					     android:textColor="#ffffff"
+					     android:background="@drawable/drama_detail_button" />
+			        <Button android:id="@+id/detaildramabtn14"
+			            android:layout_width="60dp"
+					     android:layout_height="60dp"
+					     android:textSize="18sp"
+					     android:textColor="#ffffff"
+					     android:background="@drawable/drama_detail_button" />
+			    </TableRow>
+			    <TableRow >
+			        <Button android:id="@+id/detaildramabtn15"
+			            android:layout_width="60dp"
+					     android:layout_height="60dp"
+					     android:layout_marginRight="1dp"
+					     android:layout_marginBottom="1dp"
+					     android:textSize="18sp"
+					     android:textColor="#ffffff"
+					     android:background="@drawable/drama_detail_button" />
+			        <Button android:id="@+id/detaildramabtn16"
+			            android:layout_width="60dp"
+					     android:layout_height="60dp"
+					     android:textSize="18sp"
+					     android:textColor="#ffffff"
+					      android:layout_marginRight="1dp"
+					     android:background="@drawable/drama_detail_button" />
+			        <Button android:id="@+id/detaildramabtn17"
+			            android:layout_width="60dp"
+					     android:layout_height="60dp"
+					     android:textSize="18sp"
+					     android:textColor="#ffffff"
+					      android:layout_marginRight="1dp"
+					     android:background="@drawable/drama_detail_button" />
+			        <Button android:id="@+id/detaildramabtn18"
+			            android:layout_width="60dp"
+					     android:layout_height="60dp"
+					     android:textSize="18sp"
+					     android:textColor="#ffffff"
+					      android:layout_marginRight="1dp"
+					     android:background="@drawable/drama_detail_button" />
+			        <Button android:id="@+id/detaildramabtn19"
+			            android:layout_width="60dp"
+					     android:layout_height="60dp"
+					     android:textSize="18sp"
+					     android:textColor="#ffffff"
+					     android:background="@drawable/drama_detail_button" />
+			    </TableRow>
+			    <TableRow >
+			        <Button android:id="@+id/detaildramabtn20"
+			            android:layout_width="60dp"
+					     android:layout_height="60dp"
+					     android:layout_marginRight="1dp"
+					     android:textSize="18sp"
+					     android:textColor="#ffffff"
+					     android:background="@drawable/drama_detail_button" />
+			        <Button android:id="@+id/detaildramabtn21"
+			            android:layout_width="60dp"
+					     android:layout_height="60dp"
+					     android:textSize="18sp"
+					     android:textColor="#ffffff"
+					      android:layout_marginRight="1dp"
+					     android:background="@drawable/drama_detail_button" />
+			        <Button android:id="@+id/detaildramabtn22"
+			            android:layout_width="60dp"
+					     android:layout_height="60dp"
+					     android:textSize="18sp"
+					     android:textColor="#ffffff"
+					      android:layout_marginRight="1dp"
+					     android:background="@drawable/drama_detail_button" />
+			        <Button android:id="@+id/detaildramabtn23"
+			            android:layout_width="60dp"
+					     android:layout_height="60dp"
+					     android:textSize="18sp"
+					     android:textColor="#ffffff"
+					      android:layout_marginRight="1dp"
+					     android:background="@drawable/drama_detail_button" />
+			        <Button android:id="@+id/detaildramabtn24"
+			            android:layout_width="60dp"
+					     android:layout_height="60dp"
+					     android:textSize="18sp"
+					     android:textColor="#ffffff"
+					     android:background="@drawable/drama_detail_button" />
+			    </TableRow>
+			</TableLayout>
+        </LinearLayout>
+    </RelativeLayout>
+    
+</RelativeLayout>

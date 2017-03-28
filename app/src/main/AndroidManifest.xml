@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.japantv.settop1">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<uses-permission android:name="android.permission.READ_PHONE_STATE" />
+	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>  
+	<uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/>  
+	<uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>  
+	<uses-permission android:name="android.permission.INTERACT_ACROSS_USERS" />
+	<uses-permission android:name="android.permission.INTERACT_ACROSS_USERS_FULL"/>
+	<uses-permission android:name="android.permission.SET_DEBUG_APP"/>
+	<uses-permission android:name="android.permission.INSTALL_PACKAGE"/>
+	
+    <application
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:largeHeap="true">
+        <activity
+            android:label="@string/app_name"
+            android:name="com.japantv.settop.HantvActivity"  android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+            <intent-filter >
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.japantv.settop.MainMenuActivity"  android:theme="@android:style/Theme.NoTitleBar.Fullscreen" android:screenOrientation="landscape">
+        </activity>
+        <activity android:name="com.japantv.settop.DetailDramaActivity"  android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+        </activity>
+        <activity android:name="com.japantv.settop.DetailShowActivity" android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity
+            android:name="com.japantv.settop.DetailDialogActivity"
+            android:theme="@style/Theme.DialogFullScreen" >
+        </activity>
+        <activity android:name="com.japantv.settop.live.LiveListActivity" android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+        </activity>
+        <activity android:name="com.japantv.settop.MovieListActivity" android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+        </activity>
+        <activity android:name="com.japantv.settop.BroadcastListActivity" android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+        </activity>
+        <activity android:name="com.japantv.settop.shopping.ShoppingListActivity" android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+        </activity>
+        <activity android:name="com.japantv.settop.shopping.DetailShoppingActivity" android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+        </activity>
+        <activity android:name="com.japantv.settop.delivery.DeliveryListActivity" android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+        </activity>
+        <activity android:name="com.japantv.setting.RechargeActivity" android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity android:name="com.japantv.setting.ChildActivity" android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+         <activity android:name="com.japantv.setting.HelpActivity" android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity android:name="com.japantv.setting.SearchActivity" android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity android:name="com.japantv.setting.RestoreActivity" android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        <activity android:name="com.japantv.settop.VideoViewActivity" android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        </activity>
+        
+    </application>
+	
+</manifest>

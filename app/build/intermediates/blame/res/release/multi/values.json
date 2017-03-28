@@ -1,0 +1,712 @@
+[
+    {
+        "outputFile": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 1,
+                        "startOffset": 1119,
+                        "endColumn": 58,
+                        "endOffset": 1176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 44,
+                    "endOffset": 157
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 360,
+                        "endColumn": 44,
+                        "endOffset": 400
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 162,
+                    "endColumn": 54,
+                    "endOffset": 212
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 1,
+                        "startOffset": 585,
+                        "endColumn": 51,
+                        "endOffset": 635
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 217,
+                    "endColumn": 59,
+                    "endOffset": 272
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 1,
+                        "startOffset": 692,
+                        "endColumn": 56,
+                        "endOffset": 747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 277,
+                    "endColumn": 60,
+                    "endOffset": 333
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 1,
+                        "startOffset": 750,
+                        "endColumn": 57,
+                        "endOffset": 806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 338,
+                    "endColumn": 55,
+                    "endOffset": 389
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 1,
+                        "startOffset": 638,
+                        "endColumn": 52,
+                        "endOffset": 689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 394,
+                    "endColumn": 60,
+                    "endOffset": 450
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 1,
+                        "startOffset": 403,
+                        "endColumn": 57,
+                        "endOffset": 459
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 455,
+                    "endColumn": 62,
+                    "endOffset": 513
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 1,
+                        "startOffset": 815,
+                        "endColumn": 59,
+                        "endOffset": 873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 518,
+                    "endColumn": 62,
+                    "endOffset": 576
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 1,
+                        "startOffset": 462,
+                        "endColumn": 59,
+                        "endOffset": 520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 581,
+                    "endColumn": 60,
+                    "endOffset": 637
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 1,
+                        "startOffset": 523,
+                        "endColumn": 57,
+                        "endOffset": 579
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 642,
+                    "endColumn": 70,
+                    "endOffset": 708
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 1,
+                        "startOffset": 876,
+                        "endColumn": 67,
+                        "endOffset": 942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 713,
+                    "endColumn": 55,
+                    "endOffset": 764
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 303,
+                        "endColumn": 55,
+                        "endOffset": 354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 769,
+                    "endColumn": 67,
+                    "endOffset": 832
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 1,
+                        "startOffset": 1243,
+                        "endColumn": 64,
+                        "endOffset": 1306
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 837,
+                    "endColumn": 40,
+                    "endOffset": 873
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 1,
+                        "startOffset": 1575,
+                        "endColumn": 37,
+                        "endOffset": 1611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 878,
+                    "endColumn": 41,
+                    "endOffset": 915
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 1,
+                        "startOffset": 1535,
+                        "endColumn": 38,
+                        "endOffset": 1572
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 920,
+                    "endColumn": 41,
+                    "endOffset": 957
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 1,
+                        "startOffset": 1417,
+                        "endColumn": 38,
+                        "endOffset": 1454
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 962,
+                    "endColumn": 38,
+                    "endOffset": 996
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 1,
+                        "startOffset": 1498,
+                        "endColumn": 35,
+                        "endOffset": 1532
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1001,
+                    "endColumn": 42,
+                    "endOffset": 1039
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 1,
+                        "startOffset": 1457,
+                        "endColumn": 39,
+                        "endOffset": 1495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1044,
+                    "endColumn": 45,
+                    "endOffset": 1085
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 1,
+                        "startOffset": 1373,
+                        "endColumn": 42,
+                        "endOffset": 1414
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1090,
+                    "endColumn": 34,
+                    "endOffset": 1120
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 1,
+                        "startOffset": 1806,
+                        "endColumn": 31,
+                        "endOffset": 1836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1125,
+                    "endColumn": 71,
+                    "endOffset": 1192
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 1,
+                        "startOffset": 1701,
+                        "endColumn": 68,
+                        "endOffset": 1768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1197,
+                    "endColumn": 65,
+                    "endOffset": 1258
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 1,
+                        "startOffset": 1309,
+                        "endColumn": 62,
+                        "endOffset": 1370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1263,
+                    "endColumn": 48,
+                    "endOffset": 1307
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 1,
+                        "startOffset": 1654,
+                        "endColumn": 45,
+                        "endOffset": 1698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1312,
+                    "endColumn": 49,
+                    "endOffset": 1357
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 1,
+                        "startOffset": 1901,
+                        "endColumn": 46,
+                        "endOffset": 1946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1362,
+                    "endColumn": 52,
+                    "endOffset": 1410
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 1,
+                        "startOffset": 1019,
+                        "endColumn": 49,
+                        "endOffset": 1067
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1415,
+                    "endColumn": 33,
+                    "endOffset": 1444
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 1,
+                        "startOffset": 945,
+                        "endColumn": 30,
+                        "endOffset": 974
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1449,
+                    "endColumn": 65,
+                    "endOffset": 1510
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 1,
+                        "startOffset": 1179,
+                        "endColumn": 62,
+                        "endOffset": 1240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1515,
+                    "endColumn": 41,
+                    "endOffset": 1552
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 1,
+                        "startOffset": 1614,
+                        "endColumn": 38,
+                        "endOffset": 1651
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1557,
+                    "endColumn": 64,
+                    "endOffset": 1617
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 2,
+                        "startOffset": 173,
+                        "endColumn": 62,
+                        "endOffset": 233
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1622,
+                    "endColumn": 48,
+                    "endOffset": 1666
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 2,
+                        "startOffset": 241,
+                        "endColumn": 46,
+                        "endOffset": 285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1671,
+                    "endColumn": 57,
+                    "endOffset": 1724
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 2,
+                        "startOffset": 116,
+                        "endColumn": 55,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1729,
+                    "endColumn": 61,
+                    "endOffset": 1786
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 2,
+                        "startOffset": 55,
+                        "endColumn": 59,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1791,
+                    "endColumn": 63,
+                    "endOffset": 1850
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 1,
+                        "startOffset": 1839,
+                        "endColumn": 60,
+                        "endOffset": 1898
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1855,
+                    "endColumn": 50,
+                    "endOffset": 1901
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 1,
+                        "startOffset": 1070,
+                        "endColumn": 47,
+                        "endOffset": 1116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1906,
+                    "endColumn": 43,
+                    "endOffset": 1945
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 1,
+                        "startOffset": 977,
+                        "endColumn": 40,
+                        "endOffset": 1016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1950,
+                    "endColumn": 34,
+                    "endOffset": 1980
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 1,
+                        "startOffset": 1773,
+                        "endColumn": 31,
+                        "endOffset": 1803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1985,
+                    "endLine": 44,
+                    "endColumn": 9,
+                    "endOffset": 2342
+                },
+                "from": {
+                    "file": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\values\\theme.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 1,
+                        "startOffset": 54,
+                        "endLine": 8,
+                        "endColumn": 9,
+                        "endOffset": 417
+                    }
+                }
+            }
+        ]
+    }
+]

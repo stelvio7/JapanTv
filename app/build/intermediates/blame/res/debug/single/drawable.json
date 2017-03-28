@@ -1,0 +1,762 @@
+[
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_lshop_kitchenp.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_lshop_kitchenp.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\season.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\season.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_market_golf.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_market_golf.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_bshop_woman.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_bshop_woman.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_child_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\setting_child_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_info_visa.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_info_visa.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_delivery_superbowl.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_delivery_superbowl.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_left.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\arrow_left.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_cast_baby_edu_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_cast_baby_edu_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\movie_chi_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\movie_chi_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_delivery_binhduong.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_delivery_binhduong.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_baby_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\live_baby_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_movie_chi_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_movie_chi_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delivery_flour_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\delivery_flour_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_movie_thriller_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_movie_thriller_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_cast_cable_csi_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_cast_cable_csi_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\bg.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_market_health.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_market_health.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_sports_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\live_sports_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_cast_special_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_cast_special_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_movie_action_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_movie_action_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_delivery_pmh.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_delivery_pmh.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\broadcastdd.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\broadcastdd.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_movie_old_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_movie_old_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_fshop_instant.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_fshop_instant.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_cast_baby_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_cast_baby_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_sshop_camping.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_sshop_camping.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_cast_cablejap_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_cast_cablejap_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_cast_box_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_cast_box_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\broadcast_cable_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\broadcast_cable_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\movie_old_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\movie_old_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_movie_chi_aniasia_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_movie_chi_aniasia_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_edit_focus.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\search_edit_focus.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_sshop_furniture.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_sshop_furniture.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_help_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\setting_help_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_info_estate.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_info_estate.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_cast_sbs_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_cast_sbs_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_cast_cable_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_cast_cable_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_movie_chi_anifor_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_movie_chi_anifor_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_movie_chi_anikor_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_movie_chi_anikor_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\broadcastplay.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\broadcastplay.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_movie_asia_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_movie_asia_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_movie_comedy_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_movie_comedy_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shoping_used_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\shoping_used_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_fshop_sidedish.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_fshop_sidedish.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shoping_digital_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\shoping_digital_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\movieadd.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\movieadd.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_gshop_beauty.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_gshop_beauty.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delivery_korea_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\delivery_korea_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_cast_drama_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_cast_drama_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_market_electronics.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_market_electronics.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_sshop_living.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_sshop_living.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_gshop_food.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_gshop_food.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\broadcast_drama_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\broadcast_drama_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\movieplay.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\movieplay.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\payment_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\payment_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_cast_kids_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_cast_kids_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_fshop_marine.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_fshop_marine.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_lshop_clean.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_lshop_clean.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_btn_focus.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\search_btn_focus.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\broadcast_baby_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\broadcast_baby_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\setting_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_safe_save.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\button_safe_save.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shoping_group_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\shoping_group_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_market_motorcycle.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_market_motorcycle.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_gshop_season.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_gshop_season.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\movie_update_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\movie_update_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\broadcast_update_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\broadcast_update_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_bshop_other.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_bshop_other.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_bshop_baby.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_bshop_baby.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\page_left.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\page_left.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_dshop_camera.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_dshop_camera.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_cast_show_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_cast_show_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\delete.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_movie_drama_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_movie_drama_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_info_airline.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_info_airline.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_gshop_kitchen.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_gshop_kitchen.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_market_car.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_market_car.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\broadcast_edu_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\broadcast_edu_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_dacu_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\live_dacu_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_market_home.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_market_home.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\broadcast_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\broadcast_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_bshop_jewellery.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_bshop_jewellery.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_cast_baby_baby_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_cast_baby_baby_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_info_other.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_info_other.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_sshop_sports.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_sshop_sports.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delivery_china_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\delivery_china_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_sshop_golf.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_sshop_golf.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shoping_food_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\shoping_food_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_next.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\arrow_next.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_select_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\live_select_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_dshop_kitchen.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_dshop_kitchen.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_movie_romance_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_movie_romance_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\movie_for_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\movie_for_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_lshop_keep.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_lshop_keep.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_lshop_life.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_lshop_life.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_find_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\setting_find_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_bshop_cosmetics.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_bshop_cosmetics.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_movie_kor_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_movie_kor_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shoping_cloth_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\shoping_cloth_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\movie_kor_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\movie_kor_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_wifi_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\setting_wifi_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_lshop_merchandise.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_lshop_merchandise.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_safe_on_.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\button_safe_on_.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_fshop_fruits.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_fshop_fruits.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_gshop_electronics.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_gshop_electronics.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_bshop_beauty.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_bshop_beauty.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delivery_bakery_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\delivery_bakery_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\broadcast_box_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\broadcast_box_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_safe_off_.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\button_safe_off_.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\listborder.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\listborder.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_cast_mbc_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_cast_mbc_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_cast_cable_chi_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_cast_cable_chi_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\broadcast_show_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\broadcast_show_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delivery_grocery_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\delivery_grocery_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_cast_baby_eng_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_cast_baby_eng_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_fshop_health.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_fshop_health.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_delivery_dongnai.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_delivery_dongnai.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_net_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\setting_net_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_sshop_bedroom.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_sshop_bedroom.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_gshop_other.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_gshop_other.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_market_other.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_market_other.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\movie_ada_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\movie_ada_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_fshop_other.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_fshop_other.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delivery_japan_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\delivery_japan_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_cable_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\live_cable_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_gshop_furniture.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_gshop_furniture.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delivery_chiken_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\delivery_chiken_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_dshop_electronics.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_dshop_electronics.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\movie_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\movie_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_cast_baby_chi_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_cast_baby_chi_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_movie_hor_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_movie_hor_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_sshop_outdoor.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_sshop_outdoor.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_fshop_coffee.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_fshop_coffee.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_bshop_bag.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_bshop_bag.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_lshop_kitchenm.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_lshop_kitchenm.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_cast_dacu_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_cast_dacu_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\live_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\livelist_border.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\livelist_border.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_bshop_man.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_bshop_man.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_info_travel.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_info_travel.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_sshop_kitchen.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_sshop_kitchen.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\broadcast_culture_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\broadcast_culture_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_cast_cablefor_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_cast_cablefor_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_edit.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\search_edit.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_delivery_city.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_delivery_city.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_movie_ada_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_movie_ada_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shoping_other_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\shoping_other_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_btn.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\search_btn.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_dshop_computer.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_dshop_computer.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shoping_life_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\shoping_life_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_edit_infocus.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\search_edit_infocus.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_fshop_freeze.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_fshop_freeze.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_movie_animation_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_movie_animation_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_cast_baby_song_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_cast_baby_song_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_dshop_mobile.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_dshop_mobile.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_dshop_peripherals.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_dshop_peripherals.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_cast_kbs2_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_cast_kbs2_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_cast_cable_ada_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_cast_cable_ada_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_right.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\arrow_right.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_cast_kbs1_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_cast_kbs1_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_lshop_prop.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_lshop_prop.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_ground_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\live_ground_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_dshop_tablet.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_dshop_tablet.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_delivery_anphu.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_delivery_anphu.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_cast_kbs_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_cast_kbs_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_movie_war_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_movie_war_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_search_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_search_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\page_right.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\page_right.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_cast_other_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_cast_other_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\search_btn_infocus.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\search_btn_infocus.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_delivery_hanoi.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_delivery_hanoi.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_movie_sf_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_movie_sf_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\shoping_leisure_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\shoping_leisure_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_lshop_kitchen.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_lshop_kitchen.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delivery_mart_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\delivery_mart_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\drama_detail_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\drama_detail_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_payment_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\setting_payment_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_news_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\live_news_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_movie_for_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_movie_for_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_total_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\live_total_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_movie_dacu_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_movie_dacu_button.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_delivery_other.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_delivery_other.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_market_mobile.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_market_mobile.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_sshop_health.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_sshop_health.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_market_computer.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_market_computer.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_dshop_health.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_dshop_health.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arrow_pre.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\arrow_pre.xml"
+    }
+]

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ageunder">選択された動画は視聴可能年齢の動画がありません。</string>
+    <string name="app_name">JapanTV</string>
+    <string name="check_child_4">4桁を入力してください。</string>
+    <string name="check_child_complete">設定が完了しました。</string>
+    <string name="check_child_modify">設定の変更に失敗しました。</string>
+    <string name="check_child_no">暗証番号が一致しません。</string>
+    <string name="check_recharge">充電番号をすべて入力してください。</string>
+    <string name="check_recharge_aleady">すでに充電した番号です。</string>
+    <string name="check_recharge_complete">充電を完了しました。</string>
+    <string name="check_recharge_diff">充電番号が一致しません。</string>
+    <string name="check_recharge_error">エラーが発生しました。再び試みてください。</string>
+    <string name="hello">Hello World, JapanTV!</string>
+    <string name="memberm">機器のサービス期間またはインターネット連結を確認してください。</string>
+    <string name="menubox">放送倉庫</string>
+    <string name="menucable">케이블</string>
+    <string name="menudrama">ドラマ</string>
+    <string name="menuedu">情報</string>
+    <string name="menushow">バラエティ</string>
+    <string name="menuupdate">アップデート</string>
+    <string name="no">いいえ</string>
+    <string name="nonet">インターネット接続がされていません。インターネット連結を確認してください。</string>
+    <string name="nopoint">視聴ポイントが不足しています。ポイントを確認してください。</string>
+    <string name="nosearch">検索結果がありません。</string>
+    <string name="noupdate">現在の最新バージョンです</string>
+    <string name="novideo">映像を再生することはできません。</string>
+    <string name="ok">確認</string>
+    <string name="safechild">19歳未満の観覧不可-児童保護設定を解除してください。</string>
+    <string name="searchtext">検索</string>
+    <string name="str_network_error">ネットワークのエラーが発生しました。</string>
+    <string name="str_wait">少々お待ちください..</string>
+    <string name="task_cancelled">作業がキャンセルされました。</string>
+    <string name="task_progressing">処理中です。少々お待ちください。</string>
+    <string name="update">新しい バージョンが あります。アップデート しますか？</string>
+    <string name="videocancel">誤った処理経路です。</string>
+    <string name="wait">少々お待ちください。</string>
+    <string name="yes">はい</string>
+    <style name="Theme.DialogFullScreen" parent="@android:style/Theme.Dialog">
+	    <item name="android:windowFullscreen">true</item>
+	    <item name="android:windowFrame">@null</item>
+	    <item name="android:windowNoTitle">true</item>
+	    <item name="android:windowIsFloating">true</item>
+	    <item name="android:windowContentOverlay">@null</item>
+	</style>
+</resources>

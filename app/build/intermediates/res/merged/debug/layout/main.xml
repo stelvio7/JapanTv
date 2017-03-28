@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal" android:background="@drawable/main_bg">
+	
+	<ImageView
+	    android:id="@+id/tel"
+	    android:layout_width="wrap_content"
+	     android:layout_height="wrap_content"
+	      android:layout_marginLeft="10dp"
+	     android:layout_alignParentLeft="true"
+	     android:layout_alignParentBottom="true"
+	     >
+	</ImageView>
+	<ImageView android:id="@+id/ImgViewNotice"
+	    android:layout_width="wrap_content"
+	     android:layout_height="wrap_content"
+	     android:layout_centerInParent="true"
+	     >
+	</ImageView>
+	<TextView
+		android:id="@+id/versionName"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_alignParentRight="true"
+		android:layout_margin="8dp"
+		android:layout_alignParentBottom="true"
+		android:textSize="14sp"
+		>
+	</TextView>
+
+</RelativeLayout>

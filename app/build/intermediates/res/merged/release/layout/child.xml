@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" android:background="@drawable/main_bg">
+	
+	<ImageView
+	    android:id="@+id/tel"
+	    android:layout_width="wrap_content"
+	     android:layout_height="wrap_content"
+	     android:layout_marginLeft="10dp"
+	     android:layout_alignParentLeft="true"
+	     android:layout_alignParentBottom="true">
+	</ImageView>
+	
+<LinearLayout 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingRight="8dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal" 
+        >
+		<Button android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:id="@+id/imgExpireDate"
+		    android:textColor="#ffffff"
+		    android:textSize="20sp"
+		    android:focusable="false"
+		    android:textScaleX="0.9"
+		    android:text="00"
+		    android:background="@drawable/background_day"
+		    android:layout_marginBottom="15dp"
+		    />
+		<Button android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:id="@+id/imgExpireDate2"
+		    android:textColor="#ffffff"
+		    android:textSize="20sp"
+		    android:focusable="false"
+		    android:layout_marginLeft="5dp"
+		    android:textScaleX="0.9"
+		    android:text="00"
+		    android:background="@drawable/background_day"
+		    android:layout_marginRight="6dp"
+		    />
+    </LinearLayout>
+
+	<LinearLayout
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_alignParentBottom="true"
+	    android:layout_alignParentRight="true"
+	    android:layout_marginTop="10dp"
+	    android:orientation="horizontal"
+	    android:paddingRight="23dp" >
+
+        <ImageView
+            android:id="@+id/imgLock"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="0dp"
+            android:layout_marginBottom="70dp"
+            android:background="@drawable/image_main_lock_on"/>
+        <ImageView
+            android:id="@+id/imgNet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="70dp"
+            android:background="@drawable/image_main_net_on"/>
+     </LinearLayout>
+     <LinearLayout
+        android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:layout_marginTop="60dp"
+	    android:gravity="center"
+	    android:orientation="vertical">
+     	<ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="0dp"
+            android:background="@drawable/image_safe_banner"/>
+     </LinearLayout>
+    <LinearLayout
+        android:id="@+id/ll"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_centerInParent="true"
+	    android:background="@drawable/image_safe_bg"
+	    android:orientation="vertical">
+	    <EditText
+	        android:id="@+id/editPasswd"
+	        android:layout_width="160dp"
+	        android:layout_height="34dp"
+	        android:layout_marginLeft="210dp"
+	        android:layout_marginTop="34dp"
+	        android:textColor="#FFFFFF"
+	        android:padding="3dp"
+	        android:gravity="center"
+	        android:textSize="16sp"
+	        android:inputType="number"
+	        android:maxLength="4"
+	        android:background="#343434"
+	        android:maxLines="1"/>
+	     <ImageButton
+	        android:id="@+id/btnChild"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="210dp"
+	        android:layout_marginTop="12dp"
+	        android:windowSoftInputMode="stateHidden"
+	        android:background="@drawable/button_safe_on_"/>
+	    <EditText
+	        android:id="@+id/editPasswdModify"
+	        android:layout_width="160dp"
+	        android:layout_height="34dp"
+	        android:layout_marginLeft="210dp"
+	        android:layout_marginTop="10dp"
+	        android:padding="3dp"
+	        android:textColor="#FFFFFF"
+	         android:inputType="number"
+	        android:textSize="16sp"
+	        android:gravity="center"
+	        android:maxLength="4"
+	        android:background="#343434"
+	        android:maxLines="1"/>
+	    </LinearLayout>
+	     <LinearLayout
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:layout_alignParentBottom="true"
+			 android:layout_centerHorizontal="true"
+		    android:orientation="vertical">
+			<ImageButton
+			       android:id="@+id/btnSend"
+			       android:layout_width="wrap_content"
+			       android:layout_height="wrap_content"
+			       android:layout_marginBottom="120dp"
+			       android:windowSoftInputMode="stateHidden"
+			       android:background="@drawable/button_safe_save"></ImageButton>
+		</LinearLayout>
+	    
+    
+</RelativeLayout>

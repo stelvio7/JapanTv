@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#000000"
+    android:orientation="horizontal">
+    <LinearLayout
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:background="#000000">
+	    </LinearLayout>
+	<VideoView android:id="@+id/videoview"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_gravity="center"
+        android:layout_centerInParent="true"
+	    >
+	</VideoView>
+	<ImageView 
+	    android:id="@+id/imageview"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:background="#000000"
+	    android:visibility="gone"/>
+	<RelativeLayout
+	    android:id="@+id/slmenu"
+	    android:layout_width="wrap_content"
+	    android:layout_height="match_parent"
+	    android:layout_alignParentRight="true"
+	    android:paddingTop="40dp"
+	    android:paddingBottom="30dp"
+	    android:background="@drawable/image_live_batang"
+	    android:visibility="gone">
+		<ScrollView 
+	        android:layout_width="wrap_content"
+	    	android:layout_height="match_parent"
+	    	>
+		    <LinearLayout
+		        android:id="@+id/llMenu"
+			    android:layout_width="match_parent"
+			    android:layout_height="match_parent"
+			    android:padding="23dp"
+			    android:orientation="vertical">
+			</LinearLayout>
+		</ScrollView>
+	</RelativeLayout>
+</RelativeLayout>

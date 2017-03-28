@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"  android:background="@drawable/main_bg" >
+	<ImageView
+	    android:id="@+id/menu"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:layout_centerHorizontal="true"
+	    android:layout_alignParentTop="true"
+	    android:layout_marginTop="10dp"
+	    android:src="@drawable/list_genre_button"
+	    android:focusable="false"
+	     />
+	<RelativeLayout 
+	    android:paddingTop="6dp"
+	    android:id="@+id/rlMenu"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:visibility="gone">
+	    <ImageView
+
+		    android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:paddingTop="4dp"
+		    android:src="@drawable/list_genre_batang"
+		    android:focusable="false"
+		     />
+	 	<LinearLayout
+        android:id="@+id/menuLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+	    android:layout_alignParentTop="true"
+	    android:layout_marginTop="10dp"
+        android:orientation="horizontal">
+        
+        <ImageView
+            android:id="@+id/btnMenu1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:nextFocusRight="@+id/btnMenu2"
+            android:padding="0dp"
+            android:focusable="true"
+            android:background="@drawable/genre_cast_baby_baby_button" />
+        <ImageView
+            android:id="@+id/btnMenu2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:nextFocusLeft="@+id/btnMenu1"
+            android:nextFocusRight="@+id/btnMenu3"
+            android:padding="0dp"
+            android:focusable="true"
+            android:background="@drawable/genre_cast_baby_baby_button" />
+        <ImageView
+            android:id="@+id/btnMenu3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:nextFocusLeft="@+id/btnMenu2"
+            android:nextFocusRight="@+id/btnMenu4"
+            android:padding="0dp"
+            android:focusable="true"
+            android:background="@drawable/genre_cast_baby_baby_button" />
+        <ImageView
+            android:id="@+id/btnMenu4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:nextFocusLeft="@+id/btnMenu3"
+            android:nextFocusRight="@+id/btnMenu5"
+            android:padding="0dp"
+            android:focusable="true"
+            android:background="@drawable/genre_cast_baby_baby_button" />
+        <ImageView
+            android:id="@+id/btnMenu5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:nextFocusLeft="@+id/btnMenu4"
+            android:nextFocusRight="@+id/btnMenu6"
+            android:padding="0dp"
+            android:focusable="true"
+            android:background="@drawable/genre_cast_baby_baby_button" />
+        <ImageView
+            android:id="@+id/btnMenu6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:nextFocusLeft="@+id/btnMenu5"
+            android:nextFocusRight="@+id/btnMenu7"
+            android:padding="0dp"
+            android:focusable="true"
+            android:background="@drawable/genre_cast_baby_baby_button" />
+        <ImageView
+            android:id="@+id/btnMenu7"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:nextFocusLeft="@+id/btnMenu6"
+            android:nextFocusRight="@+id/btnMenu8"
+            android:padding="0dp"
+            android:focusable="true"
+            android:background="@drawable/genre_cast_baby_baby_button" />
+        <ImageView
+            android:id="@+id/btnMenu8"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:nextFocusLeft="@+id/btnMenu7"
+            android:nextFocusRight="@+id/btnMenu9"
+            android:padding="0dp"
+            android:focusable="true"
+            android:background="@drawable/genre_cast_baby_baby_button" />
+        <ImageView
+            android:id="@+id/btnMenu9"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:nextFocusLeft="@+id/btnMenu8"
+            android:nextFocusRight="@+id/btnMenu10"
+            android:padding="0dp"
+            android:focusable="true"
+            android:background="@drawable/genre_cast_baby_baby_button" />
+        <ImageView
+            android:id="@+id/btnMenu10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:nextFocusLeft="@+id/btnMenu9"
+            android:padding="0dp"
+            android:focusable="true"
+            android:background="@drawable/genre_cast_baby_baby_button" />
+    </LinearLayout>
+	</RelativeLayout>
+	
+	<com.japantv.settop.shopping.ShoppingCoverFlow
+		android:id="@+id/coverflow"
+		android:layout_width="match_parent"
+		android:layout_height="470dp" 
+		android:layout_centerInParent="true"
+		/>
+	<!--android:nextFocusUp="@+id/searchText"-->
+	<ImageView
+	    android:id="@+id/tel"
+	    android:focusable="false"
+	    android:layout_width="wrap_content"
+	     android:layout_height="wrap_content"
+	     android:layout_marginBottom="5dp"
+	     android:layout_marginLeft="10dp"
+	     android:layout_alignParentLeft="true"
+	     android:layout_alignParentBottom="true">
+	</ImageView>
+	<TextView  
+	    android:id="@+id/coverflowtext"
+	    android:focusable="false"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:textColor="#ffffff"
+	    android:textSize="20sp"
+	    android:layout_below="@id/coverflow"
+	    android:layout_centerHorizontal="true"
+	     />
+	<ImageView android:id="@+id/arrowleft"
+	    android:focusable="false"
+	    android:layout_width="wrap_content"
+	     android:layout_height="wrap_content"
+	     android:src="@drawable/arrow_left"
+	     android:layout_alignParentLeft="true"
+	     android:layout_centerVertical="true"
+	     android:layout_marginLeft="20dp"
+	    >
+	</ImageView>
+	
+	 <ImageView android:id="@+id/arrowright"
+	     android:focusable="false"
+	     android:layout_width="wrap_content"
+	     android:layout_height="wrap_content"
+	     android:src="@drawable/arrow_right"
+	     android:layout_alignParentRight="true"
+	     android:layout_centerVertical="true"
+	     android:layout_marginRight="20dp"
+	    >
+	</ImageView>
+	
+	<LinearLayout 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingRight="3dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal" 
+        >
+		<Button android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:id="@+id/imgExpireDate"
+		    android:textColor="#ffffff"
+		    android:textSize="20sp"
+		    android:focusable="false"
+		    android:textScaleX="0.9"
+		    android:text="00"
+		    android:gravity="center_horizontal|bottom"
+		    android:paddingRight="4dp"
+		    android:paddingBottom="4dp"
+		    android:background="@drawable/image_main_date"
+		    android:layout_marginBottom="15dp"
+		    />
+		<Button android:layout_width="wrap_content"
+		    android:layout_height="wrap_content"
+		    android:id="@+id/imgExpireDate2"
+		    android:textColor="#ffffff"
+		    android:textSize="20sp"
+		    android:focusable="false"
+		    android:textScaleX="0.9"
+		    android:text="00"
+		    android:gravity="center_horizontal|bottom"
+		    android:paddingRight="2dp"
+		    android:paddingBottom="4dp"
+		    android:background="@drawable/image_main_date2"
+		    android:layout_marginRight="6dp"
+		    />
+    </LinearLayout>
+	<LinearLayout 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:paddingRight="23dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal" 
+        
+        >
+        <ImageView
+            android:id="@+id/imgLock"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="0dp"
+            android:layout_marginBottom="70dp"
+            android:background="@drawable/image_main_lock_on"/>
+        <ImageView
+            android:id="@+id/imgNet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="70dp"
+            android:background="@drawable/image_main_net_on"/>
+     </LinearLayout>
+	<!-- <LinearLayout  android:id="@+id/mainLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+		android:layout_centerHorizontal="true"
+        android:orientation="horizontal">
+		<EditText
+		    android:id="@+id/searchText" 
+		    android:layout_width="180dp"
+		    android:layout_height="38dp"
+		    android:paddingLeft="4dp"
+		    android:textSize="22sp"
+		    android:maxLines="1"
+		    android:focusable="true"
+		    android:shadowRadius="10"
+		    android:background="@drawable/search_edit"
+		    android:nextFocusDown="@+id/coverflow">
+		</EditText>
+		<Button android:id="@+id/searchButton" 
+		    android:layout_marginLeft="5dp"
+		    android:layout_width="70dp"
+		    android:layout_height="40dp"
+		    android:textSize="22sp"
+		    android:text="@string/searchtext"
+		    android:focusable="true"
+		    android:textColor="#DDDDDD"
+		    android:background="@drawable/search_btn"
+		    android:nextFocusDown="@+id/coverflow">
+		</Button>
+	</LinearLayout> -->
+</RelativeLayout>

@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\release\\layout\\restore.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\layout\\restore.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\release\\layout\\coverflow.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\layout\\coverflow.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\release\\layout\\detailcable.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\layout\\detailcable.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\release\\layout\\shoppingcoverflow.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\layout\\shoppingcoverflow.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\release\\layout\\shoppingdetailcoverflow.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\layout\\shoppingdetailcoverflow.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\release\\layout\\detailshow.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\layout\\detailshow.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\release\\layout\\child.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\layout\\child.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialogpopupmovie.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\layout\\dialogpopupmovie.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\release\\layout\\search.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\layout\\search.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\release\\layout\\mainmenu.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\layout\\mainmenu.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialogpopupplay.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\layout\\dialogpopupplay.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialogpopup.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\layout\\dialogpopup.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\release\\layout\\main.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\release\\layout\\detaildrama.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\layout\\detaildrama.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\release\\layout\\livecoverflow.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\layout\\livecoverflow.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\release\\layout\\dialogpopupdelete.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\layout\\dialogpopupdelete.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\release\\layout\\recharge.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\layout\\recharge.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\release\\layout\\videopage.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\layout\\videopage.xml"
+    }
+]

@@ -1,0 +1,7 @@
+#Tue Mar 28 15:19:56 KST 2017
+base.0=E\:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\RootTools-3.4_d68357c9c35c98d1ee12cd18cdd0cb196317f82d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\universal-image-loader-1.9.2_2d019cf309c081f098995d7f8656b442f0ec249c\\classes.dex
+base.1=E\:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\universal-image-loader-1.9.2_2d019cf309c081f098995d7f8656b442f0ec249c
+file.0=E\:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\RootTools-3.4_d68357c9c35c98d1ee12cd18cdd0cb196317f82d\\classes.dex

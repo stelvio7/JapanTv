@@ -1,0 +1,7 @@
+#Tue Mar 28 15:19:57 KST 2017
+base.0=E\:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9db74b4a4f0230b7363552cc737058016428eaf6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_689c823ac45abbe6a65ef77aefebe6ce731d95f0\\classes.dex
+base.1=E\:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_689c823ac45abbe6a65ef77aefebe6ce731d95f0
+file.0=E\:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_9db74b4a4f0230b7363552cc737058016428eaf6\\classes.dex
