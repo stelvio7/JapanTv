@@ -148,12 +148,12 @@
         "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable-mdpi\\category_bshop_man_off.png"
     },
     {
-        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\genre_cast_baby_edu_on.png",
-        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable-mdpi\\genre_cast_baby_edu_on.png"
-    },
-    {
         "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\category_lshop_kitchen_off.png",
         "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable-mdpi\\category_lshop_kitchen_off.png"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\genre_cast_baby_edu_on.png",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable-mdpi\\genre_cast_baby_edu_on.png"
     },
     {
         "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\category_gshop_other_on.png",

@@ -1835,6 +1835,7 @@ public class MainMenuActivity extends Activity{
 		protected Void doInBackground(String... arg0) {
 			try {
 				URL url = new URL(arg0[0]);
+				Log.e("url", url.getPath());
 				HttpURLConnection c = (HttpURLConnection) url.openConnection();
 				c.setRequestMethod("GET");
 				c.setDoOutput(true);

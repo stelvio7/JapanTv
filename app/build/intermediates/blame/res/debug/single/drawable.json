@@ -648,12 +648,12 @@
         "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\arrow_right.xml"
     },
     {
-        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_cast_kbs1_button.xml",
-        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_cast_kbs1_button.xml"
-    },
-    {
         "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\category_lshop_prop.xml",
         "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\category_lshop_prop.xml"
+    },
+    {
+        "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\genre_cast_kbs1_button.xml",
+        "source": "E:\\oldData\\201703android\\JapanTv\\app\\src\\main\\res\\drawable\\genre_cast_kbs1_button.xml"
     },
     {
         "merged": "E:\\oldData\\201703android\\JapanTv\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\live_ground_button.xml",
